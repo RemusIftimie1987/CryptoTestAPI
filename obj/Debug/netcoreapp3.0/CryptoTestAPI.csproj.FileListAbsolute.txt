@@ -1,0 +1,13 @@
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\CryptoTestAPI.exe
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\obj\Debug\netcoreapp3.0\CryptoTestAPI.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\obj\Debug\netcoreapp3.0\CryptoTestAPI.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\obj\Debug\netcoreapp3.0\CryptoTestAPI.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\CryptoTestAPI.deps.json
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\CryptoTestAPI.runtimeconfig.json
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\CryptoTestAPI.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\CryptoTestAPI.dll
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\CryptoTestAPI.pdb
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\obj\Debug\netcoreapp3.0\CryptoTestAPI.csproj.CopyComplete
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\obj\Debug\netcoreapp3.0\CryptoTestAPI.dll
+C:\Users\Remus Iftimie\Engineering45\week8\CryptoTestAPI\obj\Debug\netcoreapp3.0\CryptoTestAPI.pdb
